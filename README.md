@@ -9,6 +9,7 @@ url: http://userscripts.org/scripts/show/149642
 to use it:
 
 on mozilla firefox, you can use greasemonkey extension
+ 
 on google chrome, you can use tampermonkey extension
 
 <img src="http://i.imgur.com/nCj4P.png" alt="" />
