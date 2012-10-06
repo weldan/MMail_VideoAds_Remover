@@ -1,6 +1,6 @@
 <img src="http://i.imgur.com/MTumW.png" alt="" />
 
-this is a user script. 
+this is a user script. it replace current autoplay video advertisement on malay mail website with a picture of kitten. 
 
 submitted to userscripts.org on october 4, 2012
 
